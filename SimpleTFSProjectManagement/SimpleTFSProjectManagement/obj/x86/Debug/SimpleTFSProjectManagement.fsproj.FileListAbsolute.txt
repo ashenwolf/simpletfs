@@ -1,0 +1,12 @@
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\SimpleTFSProjectManagement.XML
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\SimpleTFSProjectManagement.exe
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\SimpleTFSProjectManagement.pdb
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\FSharp.Core.dll
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\FSharpx.TypeProviders.Xaml.dll
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\FSharpx.TypeProviders.Xaml.pdb
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\FSharpx.TypeProviders.Xaml.xml
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\bin\Debug\FSharp.Core.xml
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\obj\x86\Debug\SimpleTFSProjectManagement.fsprojResolveAssemblyReference.cache
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\obj\x86\Debug\SimpleTFSProjectManagement.g.resources
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\obj\x86\Debug\SimpleTFSProjectManagement.exe
+D:\MD\Dev\Tools\SimpleTFSProjectManagement\SimpleTFSProjectManagement\SimpleTFSProjectManagement\obj\x86\Debug\SimpleTFSProjectManagement.pdb
